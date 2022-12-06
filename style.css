@@ -1,6 +1,37 @@
 body{
     background-color: bisque;
-    width: auto;
+    display: inline-flex;
+    margin: 0px 100px 70px  ;
+    padding: 40px;
+   
 }
-from{
+h1{
+    color: rgb(7, 77, 53);
+}
+nav{
+    text-align: center;
+    width: 100px;
+}
+nav{
+text-align:center;
+border-radius: 5px;
+border: none;
+padding: 5px;
+margin: 0px;}
+fieldset{
+    width: 300px;
+    border-radius: 5px;
+    border: none;
+    background-color: rgb(218, 210, 201);
+}
+
+button{
+    background-color: rgb(37, 77, 21);
+    color: azure;
+    margin-left: 40px;
+    margin: 20px 20px;
+    padding: 10px 50px;
+    border-radius: 5px;
+    border: none;
+    
 }
